@@ -1,5 +1,3 @@
-## Code Snippets
-
 ![Code Snippets Image](./banner.jpg)
 
 Are you looking for code snippets? You're on the right place! This repository is a collection of reusable source codes.
