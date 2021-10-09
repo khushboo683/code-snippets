@@ -22,7 +22,7 @@ Example:
 | Bootstrap        | Navbar          | Readme.md    |
 |                  |                 | Index.html   |
 
-Thank you, and happy hacking!
+Thank you, and enjoy!
 
 
 
