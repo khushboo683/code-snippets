@@ -1,4 +1,4 @@
-## :computer: Code Snippets
+## Code Snippets
 
 ![Code Snippets Image](./banner.jpg)
 
@@ -6,7 +6,7 @@ Are you looking for code snippets? You're on the right place! This repository is
 
 ## Contribution
 
-Any contributions are highly appreciated. For more details please read the the [Contribution Guide](./CONTRIBUTING.md).
+Any contributions are highly appreciated. For more details please read the the [Contribution Guide](../main/CONTRIBUTING.md).
 
 ## Sharing is Caring!
 
