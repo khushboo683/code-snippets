@@ -4,7 +4,7 @@ Are you looking for code snippets? You're on the right place! This repository is
 
 ## Contribution
 
-Any contributions are highly appreciated. For more details please read the the [Contribution Guide](../main/CONTRIBUTING.md).
+Any contributions are highly appreciated. For more details please read the the [Contribution Guide](https://github.com/dennagustin/code-snippets/blob/main/CONTRIBUTING.md).
 
 ## Sharing is Caring!
 
