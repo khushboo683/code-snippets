@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+## :computer: Code Snippets
 
-You can use the [editor on GitHub](https://github.com/dennagustin/code-snippets/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+![Code Snippets Image](./banner.jpg)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Are you looking for code snippets? You're on the right place! This repository is a collection of reusable source codes.
 
-### Markdown
+## Contribution
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Any contributions are highly appreciated. For more details please read the the [Contribution Guide](./CONTRIBUTING.md).
 
-```markdown
-Syntax highlighted code block
+## Sharing is Caring!
 
-# Header 1
-## Header 2
-### Header 3
+If this repository was useful to you in any way, make sure you give it a star 🌟 or share it with other
+people. Remember, great satisfaction comes from sharing with others! :smiley:
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dennagustin/code-snippets/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Do you have any questions or suggestions? I'd love to hear from you.
