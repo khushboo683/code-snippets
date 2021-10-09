@@ -7,6 +7,7 @@ These steps will help you to contribute to this project properly:
    * Ensure that the title/comment of the pull request describes what is being added/updated.
    * All files should be relevant to the pull request title/comment.
    * Create an individual Pull Request for each code snippet.
+   * Use the appropriate folder or create one if the folder is not yet existing.
 3. Star this repository if you find it helpful or you like it.
 
 ## Folder Structure
